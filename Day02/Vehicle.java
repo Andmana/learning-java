@@ -41,7 +41,7 @@ public class Vehicle {
         showSpeed();
         
     }
-
+    
     public void showSpeed(){
         System.out.println("Current speed = " + speed);
     }
